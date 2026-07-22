@@ -16,3 +16,7 @@ WhatsApp Multi Device Bot
 npm install
 npm start
 ```
+## Owner
+
+- Owner: Niloy
+- Number: 8801806081649
